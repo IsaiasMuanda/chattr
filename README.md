@@ -27,7 +27,21 @@
 - Socket.IO
 - JWT + bcryptjs
 
+## 🖼 Screenshots
 
+<div align="center">
+  <h3>Telas de Autenticação</h3>
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
+    <img src="./assets/login.png" width="45%" alt="Tela de Login" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./assets/signup.png" width="45%" alt="Tela de Cadastro" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+
+  <h3>Telas de Conversa</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="./assets/chat-1.png" width="45%" alt="Conversa 1" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./assets/chat-2.png" width="45%" alt="Conversa 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
 ## 🌐 Deploy
 O projeto está hospedado no Render:  
