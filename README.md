@@ -45,7 +45,7 @@
 
 ## 🌐 Deploy
 O projeto está hospedado no Render:  
-🔗 [https://chattr.onrender.com](https://chattr.onrender.com)
+🔗 https://chattr-1-t755.onrender.com/login
 
 ---
 
